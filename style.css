@@ -25,10 +25,7 @@
 }
 
 body {
-  background: var(--bg-url);
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: cover;
+  background: var(--bg-url) no-repeat top center/cover;
   height: 100vh;
 }
 
